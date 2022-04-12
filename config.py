@@ -7,7 +7,7 @@ API_HASH = '99ba8069a1857fc5601fe6e3d9f2ab63'
 USUARIO = 'darian.borges@estudiantes.fbio.uh.cu'
 PASSWORD = 'darian1995'
 USUARIO_ID = 32581
-ZIP_MB = 100
+ZIP_MB = 250
 MOODLE_URL = 'evea.uh.cu'
 OWNER = [1205532563]
 
